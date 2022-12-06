@@ -31,7 +31,7 @@ public class SnakeGame extends JFrame {
 	 * right when the game starts, so that we're not just a head moving
 	 * around on the board.
 	 */
-	private static final int MIN_SNAKE_LENGTH = 6;
+	private static final int MIN_SNAKE_LENGTH = 4;
 	
 	/**
 	 * The maximum number of directions that we can have polled in the
